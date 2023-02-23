@@ -11,13 +11,11 @@
 <p align="center">
 Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
 </p>
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/87d9db4f-cc09-4062-a745-46f18b4b4322/deploy-status)](https://app.netlify.com/sites/b2b-    storefront/deploys)
 <p align="center">
   <a href="https://github.com/medusajs/medusa/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Medusa is released under the MIT license." />
-      </a>
-    [![Netlify Status](https://api.netlify.com/api/v1/badges/87d9db4f-cc09-4062-a745-46f18b4b4322/deploy-status)](https://app.netlify.com/sites/b2b-    storefront/deploys)
-  </a>
+    </a>
   <a href="https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs welcome!" />
   </a>
