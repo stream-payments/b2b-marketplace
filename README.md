@@ -1,10 +1,10 @@
-# Medusa B2B Tutorial
+# B2B Marketplace
 
 This repository is the codebase of tutorial "How to Create B2B Store with Medusa".
 
-[Medusa Documentation](https://docs.medusajs.com/) | [Medusa Website](https://medusajs.com/) | [Medusa Repository](https://github.com/medusajs/medusa)
+[Documentation](https://docs.medusajs.com/) | [Website](https://streamcommerce.co) | [Repository](https://github.com/medusajs/medusa)
 
-## Medusa Version
+## Version
 
 This tutorial uses Medusa v1.6.5. It is not guaranteed that it will work with future releases.
 
@@ -19,9 +19,9 @@ This tutorial uses Medusa v1.6.5. It is not guaranteed that it will work with fu
 
 This project includes three directories:
 
-1. `b2b-admin`: The Medusa admin dashboard.
-2. `b2b-server`: The Medusa server.
-3. `b2b-storefront`: The Medusa Next.js storefront.
+1. `b2b-admin`: The admin dashboard.
+2. `b2b-server`: The server.
+3. `b2b-storefront`: The Next.js storefront.
 
 ## How to Install
 
