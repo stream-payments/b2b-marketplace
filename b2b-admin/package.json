@@ -1,9 +1,9 @@
 {
-  "name": "medusa-admin",
+  "name": "b2b-marketplace-admin",
   "private": true,
-  "description": "A proprietary Admin system to manage Medusa Stores",
+  "description": "A proprietary Admin system to manage StreamPay b2b Stores",
   "version": "0.1.0",
-  "author": "@medusajs",
+  "author": "StreamPay",
   "resolutions": {
     "devcert": "1.2.1",
     "postcss": "^8.4.5",
@@ -112,9 +112,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/medusajs/admin"
+    "url": "https://github.com/stream-protoocol/b2b-marketplace-admin"
   },
   "bugs": {
-    "url": "https://github.com/medusajs/admin/issues"
+    "url": "https://github.com/stream-protoocol/b2b-marketplace-admin/issues"
   }
 }
