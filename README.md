@@ -1,6 +1,6 @@
 # B2B Marketplace
 
-This repository is the codebase of tutorial "How to Create B2B Store with Medusa".
+This repository is the codebase of b2b marketplace
 
 [Documentation](https://docs.medusajs.com/) | [Website](https://streamcommerce.co) | [Repository](https://github.com/medusajs/medusa)
 
